@@ -1,2 +1,2 @@
 # Delta
-This is my delta repo
+This is my delta repo.
